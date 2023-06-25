@@ -1,1 +1,1 @@
-# localGPT
+# myGPT
