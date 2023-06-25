@@ -6,6 +6,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
 
 # C extensions
 *.so
@@ -131,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+myenv/
 
 # Spyder project settings
 .spyderproject
